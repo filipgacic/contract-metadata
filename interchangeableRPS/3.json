@@ -6,10 +6,6 @@
         {
             "trait_type": "type",
             "value": "Scissors"
-        },
-        {
-            "trait_type": "something",
-            "value": "new"
         }
     ]
 }
