@@ -9,7 +9,7 @@
         },
         {
             "trait_type": "something",
-            "value": ["new","wild"]
+            "value": "new"
         }
     ]
 }
