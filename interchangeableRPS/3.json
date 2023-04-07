@@ -6,14 +6,6 @@
         {
             "trait_type": "type",
             "value": "Scissors"
-        },
-        {
-            "trait_type": "someTrait",
-            "value": "someValue"
-        },
-        {
-            "trait_type": "asd",
-            "value": "dsa"
         }
     ]
 }
