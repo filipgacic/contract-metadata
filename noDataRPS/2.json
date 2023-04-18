@@ -1,3 +1,9 @@
 {
-  "name": "Paper"
+  "name": "Paper",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Paper"
+    }
+  ]
 }
