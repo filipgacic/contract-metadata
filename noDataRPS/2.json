@@ -1,10 +1,6 @@
 {
-  "name": "Paper",
+  "name": "Paperr",
   "attributes": [
-    {
-      "trait_type": "type",
-      "value": "Paper"
-    },
     {
       "trait_type": "gang",
       "value": "papirus" 
