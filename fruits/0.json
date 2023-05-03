@@ -1,0 +1,11 @@
+{
+  "name": "Apple",
+  "description": "This is an apple",
+  "image": "https://nftstorage.link/ipfs/bafybeicyutcsck2rcse3dvk6mi7y7d3jyi4km47gd5svljth2nfacaclxq",
+  "attributes": [
+    {
+      "trait_type": "fruit",
+      "value": "Apple"
+    }
+  ]
+}

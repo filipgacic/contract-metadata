@@ -1,0 +1,11 @@
+{
+  "name": "Banana",
+  "description": "This is a banana",
+  "image": "https://nftstorage.link/ipfs/bafkreic44u2j47pkbzdq6g6oyp2x75wx23kkabnxzdov3vl3vzivwdqu6q",
+  "attributes": [
+    {
+      "trait_type": "fruit",
+      "value": "Banana"
+    }
+  ]
+}
