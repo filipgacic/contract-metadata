@@ -1,0 +1,14 @@
+{
+  "name": "Water",
+  "description": "asd",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": "value1"
+    },
+    {
+      "trait_type": "asd",
+      "value": "value1"
+    }
+  ]
+}

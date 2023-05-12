@@ -1,0 +1,13 @@
+{
+  "name": "Paperr",
+  "attributes": [
+    {
+      "trait_type": "key",
+      "value": "value1"
+    },
+    {
+      "trait_type": "key",
+      "value": "value2"
+    }
+  ]
+}
