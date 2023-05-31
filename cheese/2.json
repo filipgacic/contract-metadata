@@ -1,0 +1,23 @@
+{
+  "name": "Blue Cheese",
+  "description": "This is a collectible representing blue cheese.",
+  "image": "https://nftstorage.link/ipfs/bafkreidl2q2gmyozsadptx4rzgrl2bczfx7766x6autqqelnmogl27y6e4",
+  "attributes": [
+    {
+      "trait_type": "Flavor",
+      "value": "Strong"
+    },
+    {
+      "trait_type": "Origin",
+      "value": "France"
+    },
+    {
+      "trait_type": "Texture",
+      "value": "Soft"
+    },
+    {
+      "trait_type": "Mold",
+      "value": "Blue veins"
+    }
+  ]
+}

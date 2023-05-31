@@ -1,0 +1,19 @@
+{
+  "name": "Cheddar Cheese",
+  "description": "This is a collectible representing cheddar cheese.",
+  "image": "https://nftstorage.link/ipfs/bafkreif5fqtmyg3dtrgvt6pqyd76sbh3fgiofhtyxetlszqeabz7w7l7v4",
+  "attributes": [
+    {
+      "trait_type": "Flavor",
+      "value": "Sharp"
+    },
+    {
+      "trait_type": "Origin",
+      "value": "England"
+    },
+    {
+      "trait_type": "Texture",
+      "value": "Firm"
+    }
+  ]
+}

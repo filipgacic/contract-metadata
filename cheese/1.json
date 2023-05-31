@@ -1,0 +1,19 @@
+{
+  "name": "Gouda Cheese",
+  "description": "This is a collectible representing Gouda cheese.",
+  "image": "https://nftstorage.link/ipfs/bafybeift5h4hljw5klumthksoc365vcr355nv2do2dfbb325shbygnjfmy",
+  "attributes": [
+    {
+      "trait_type": "Flavor",
+      "value": "Mild"
+    },
+    {
+      "trait_type": "Origin",
+      "value": "Netherlands"
+    },
+    {
+      "trait_type": "Texture",
+      "value": "Semi-hard"
+    }
+  ]
+}
